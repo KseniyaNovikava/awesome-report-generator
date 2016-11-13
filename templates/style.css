@@ -1,0 +1,56 @@
+body {
+   
+}
+
+h1, h2, h3, h4, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.failed {
+    background-color: #ff6666;
+}
+
+.passed {
+    background-color: #99ff99;
+}
+
+.step {
+    margin: 10px;
+}
+
+.step .text {
+    border-radius: 3px;
+    padding: 5px;
+    display: block;
+	 font-size: 15px;
+}
+
+table, td  {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+td{
+	 width: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+.feature .container {
+    background: #f8f8f8;
+}
+ .element.container {
+  
+    border: 1px solid #e8e8e8;
+    padding: 10px;
+    margin: 10px;
+}

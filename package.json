@@ -1,0 +1,19 @@
+{
+  "name": "awesome-report-generator",
+  "version": "1.0.0",
+  "description": "In order to be able to run awesome-report-generator, include the following imports to your gulpfile:",
+  "main": "index.js",
+  "dependencies": {
+    "excel4node": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.16.6",
+    "minimist": "^1.2.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
